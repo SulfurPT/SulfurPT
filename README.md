@@ -55,6 +55,21 @@
   <img src="certificates/BlockchainBasic.png" width="220px" style="border-radius:10px;box-shadow:0 0 8px rgba(0,0,0,0.15);margin-top:8px;">
 </p>
 
+<p align="center">
+  <b>Solidity Smart Contract Development</b><br>
+  <img src="certificates/SoliditySmartContractDevelopment.png" width="220px" style="border-radius:10px;box-shadow:0 0 8px rgba(0,0,0,0.15);margin-top:8px;">
+</p>
+
+<p align="center">
+  <b>Foundry Fundamentals</b><br>
+  <img src="certificates/FoundryFundamentals.png" width="220px" style="border-radius:10px;box-shadow:0 0 8px rgba(0,0,0,0.15);margin-top:8px;">
+</p>
+
+<p align="center">
+  <b>Advanced Foundry</b><br>
+  <img src="certificates/AdvancedFoundry.png" width="220px" style="border-radius:10px;box-shadow:0 0 8px rgba(0,0,0,0.15);margin-top:8px;">
+</p>
+
 ---
 
 ### 🚀 Encode Club
