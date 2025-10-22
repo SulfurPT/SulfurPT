@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  Pentester transitioning into Web3 Security — currently focused on <b>Solidity</b>, <b>EVM internals</b>, and <b>DeFi protocols</b>.<br>
+  Pentester transitioning into Web3 Security, currently focused on mastering <b>Solidity</b>, <b>EVM internals</b>, and <b>DeFi protocols</b>.<br>
   Building a portfolio through <b>CodeHawks First Flights</b>, <b>private audits</b>, <b>contests</b>, <b>bug bounties</b>, and <b>deep technical research</b>.
 </p>
 
