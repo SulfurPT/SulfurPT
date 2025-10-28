@@ -52,23 +52,39 @@
 
 <p align="center">
   <b>Blockchain Basics Course</b><br>
-  <img src="certificates/BlockchainBasic.png" width="220px" style="border-radius:10px;box-shadow:0 0 8px rgba(0,0,0,0.15);margin-top:8px;">
+  <a href="https://profiles.cyfrin.io/u/sulfurpt/achievements/blockchain-basics" target="_blank">
+    <img src="certificates/BlockchainBasic.png" width="220px" style="border-radius:10px;box-shadow:0 0 8px rgba(0,0,0,0.15);margin-top:8px;">
+  </a>
 </p>
 
 <p align="center">
   <b>Solidity Smart Contract Development</b><br>
-  <img src="certificates/SoliditySmartContractDevelopment.png" width="220px" style="border-radius:10px;box-shadow:0 0 8px rgba(0,0,0,0.15);margin-top:8px;">
+  <a href="https://profiles.cyfrin.io/u/sulfurpt/achievements/solidity" target="_blank">
+    <img src="certificates/SoliditySmartContractDevelopment.png" width="220px" style="border-radius:10px;box-shadow:0 0 8px rgba(0,0,0,0.15);margin-top:8px;">
+  </a>
 </p>
 
 <p align="center">
   <b>Foundry Fundamentals</b><br>
-  <img src="certificates/FoundryFundamentals.png" width="220px" style="border-radius:10px;box-shadow:0 0 8px rgba(0,0,0,0.15);margin-top:8px;">
+  <a href="https://profiles.cyfrin.io/u/sulfurpt/achievements/foundry" target="_blank">
+    <img src="certificates/FoundryFundamentals.png" width="220px" style="border-radius:10px;box-shadow:0 0 8px rgba(0,0,0,0.15);margin-top:8px;">
+  </a>
 </p>
 
 <p align="center">
   <b>Advanced Foundry</b><br>
-  <img src="certificates/AdvancedFoundry.png" width="220px" style="border-radius:10px;box-shadow:0 0 8px rgba(0,0,0,0.15);margin-top:8px;">
+  <a href="https://profiles.cyfrin.io/u/sulfurpt/achievements/advanced-foundry" target="_blank">
+    <img src="certificates/AdvancedFoundry.png" width="220px" style="border-radius:10px;box-shadow:0 0 8px rgba(0,0,0,0.15);margin-top:8px;">
+  </a>
 </p>
+
+<p align="center">
+  <b>Smart Contract Security</b><br>
+  <a href="https://profiles.cyfrin.io/u/sulfurpt/achievements/security" target="_blank">
+    <img src="certificates/Security.png" width="220px" style="border-radius:10px;box-shadow:0 0 8px rgba(0,0,0,0.15);margin-top:8px;">
+  </a>
+</p>
+
 
 ---
 
@@ -76,12 +92,16 @@
 
 <p align="center">
   <b>EVM Bootcamp</b><br>
+  <a href="https://opensea.io/item/polygon/0xdbf2138593aec61d55d86e80b8ed86d7b9ba51f5/13552" target="_blank">
   <img src="certificates/EVM.jpeg" width="220px" style="border-radius:10px;box-shadow:0 0 8px rgba(0,0,0,0.15);margin-top:8px;">
+  </a>
 </p>
 
 <p align="center">
   <b>Advanced Solidity Bootcamp</b><br>
+  <a href="https://opensea.io/item/polygon/0xdbf2138593aec61d55d86e80b8ed86d7b9ba51f5/14326" target="_blank">
   <img src="certificates/AdvancedSolidity.jpeg" width="220px" style="border-radius:10px;box-shadow:0 0 8px rgba(0,0,0,0.15);margin-top:8px;">
+  </a>
 </p>
 
 ---
