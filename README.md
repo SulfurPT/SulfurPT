@@ -109,15 +109,16 @@
 ### 🧩 Smart Contract Hacking (SCH)
 
 <p align="center">
-  <b>Currently in progress</b><br>
-  <a href="https://smartcontractshacking.com/">smartcontractshacking.com</a>
+  <b>Smart Contract Hacking</b><br>
+  <a href="https://johnnytime.xyz/sch-certificate/?id=d2029b5d32141109d6a7c1b50c0c4a0394f99980df62a62ac8fc2d32b3f70699" target="_blank">
+  <img src="certificates/SCH.jpg" width="220px" style="border-radius:10px;box-shadow:0 0 8px rgba(0,0,0,0.15);margin-top:8px;">
+    </a>
 </p>
 
 ---
 
 ## 🔬 Current Focus
-
-- Enrolled in [**Smart Contract Hacking (SCH)**](https://smartcontractshacking.com/) to deepen exploit development and auditing skills  
+ 
 - Building a deep understanding of **on-chain risk surfaces**  
 - Analyzing **real protocol vulnerabilities** and creating **PoCs**  
 - Preparing for **formal Web3 security audits** ([**Code4rena**](https://code4rena.com/@SulfurPT) / [**Sherlock**](https://audits.sherlock.xyz/watson/sulfurpt) / [**Cantina**](https://cantina.xyz/u/sulfurpt))
