@@ -128,7 +128,8 @@
 ## 📂 Key Repositories
 
 - 🛡️ [**Security Audits**](https://github.com/SulfurPT/security_audits) — Smart contract audits, findings & reports  
-- 🦅 [**CodeHawks First Flights**](https://github.com/SulfurPT/CodeHawks-First-Flight) — Public First Flight submissions  
+- 🦅 [**CodeHawks First Flights**](https://github.com/SulfurPT/CodeHawks-First-Flight) — Public First Flight submissions
+- 📝 [**Technical Articles**](https://github.com/SulfurPT/articles) — Deep-dives into blockchain security, infrastructure attacks, and offensive security research  
 
 ---
 
