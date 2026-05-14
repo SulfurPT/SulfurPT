@@ -8,13 +8,21 @@
 </p>
 
 <p align="center">
-  Pentester transitioning into Web3 Security, currently focused on mastering <b>Solidity</b>, <b>EVM internals</b>, and <b>DeFi protocols</b>.<br>
-  Building a portfolio through <b>CodeHawks First Flights</b>, <b>public audits</b>, <b>private audits</b>, <b>contests</b>, <b>bug bounties</b>, and <b>deep technical research</b>.
+ Offensive Security professional focused on <b>Web3 application security</b>, <b>DeFi infrastructure</b>, and <b>smart contract auditing.</b>
+ Specializing in <b>smart contract security research</b>, <b>offensive security assessments</b>, <b>protocol analysis</b>, and <b>Web2/Web3 attack surface exploration</b>.
 </p>
 
 <p align="center">
-  <i>Pentester | Web3 Security Researcher | Smart Contract Auditor (in training)</i>
+  <i>Pentester/AppSec | Web3 Security Researcher | Smart Contract Security Researcher</i>
 </p>
+
+---
+
+## 📂 Key Repositories
+
+- 🛡️ [**Security Audits**](https://github.com/SulfurPT/security_audits) — Smart contract audits, findings & reports  
+- 🦅 [**CodeHawks First Flights**](https://github.com/SulfurPT/CodeHawks-First-Flight) — Public First Flight submissions
+- 📝 [**Technical Articles**](https://github.com/SulfurPT/articles) — Deep-dives into blockchain security, infrastructure attacks, and offensive security research  
 
 ---
 
@@ -22,7 +30,7 @@
 
 - 🧠 15+ years of experience in **IT**, from **Help desk** → **Linux SysAdmin** → **DevOps** → **Pentester/PTaaS** → **Offensive Security Manager**.  
 - ⚙️ Strong background in **automation, scripting**, and **infrastructure management** (Python, Bash, C/C#).  
-- 🔒 5+ years in **Offensive Security**, including **PTaaS**, **Vulnerability Research**, and **Red Teaming**.  
+- 🔒 5+ years in **Offensive Security**, including **PTaaS**, **Vulnerability Research**, **Red Teaming** and **Application Security**. 
 - 🧱 Currently focused on **Smart Contract Auditing** and **DeFi protocol security**, bridging Web2 expertise with Web3 technology.
 
 ---
@@ -33,11 +41,11 @@
 - **Solidity** · **Foundry** · **EVM**  
 - Auditing production-ready smart contracts and research-driven blockchain projects  
 - Gas optimization, security best practices, and vulnerability analysis  
-- Participation in [**CodeHawks First Flights**](https://github.com/SulfurPT/CodeHawks-First-Flight), [**Private Audits**](https://github.com/SulfurPT/security_audits), [**Contests**](https://github.com/SulfurPT/security_audits)
+- Participation in [**CodeHawks First Flights**](https://github.com/SulfurPT/CodeHawks-First-Flight), [**Private Audits**](https://github.com/SulfurPT/security_audits), [**Contests**](https://github.com/SulfurPT/security_audits) and [**deep technical research**](https://github.com/SulfurPT/articles)
 
 #### Security & Auditing Tooling
 - **Fuzzing & Formal verification** · **Slither** · **Aderyn** · **Echidna**  
-- Threat modeling, architecture review, and PoC development for on-chain security  
+- Threat modeling, architecture review, exploit development and PoC development for on-chain security  
 
 #### Pentesting / Offensive Security (condensed)
 - **PTaaS (Pentesting-as-a-Service)** · Web apps · APIs · Cloud · Internal · External · Wi-Fi · Mobile  
@@ -118,20 +126,15 @@
 ---
 
 ## 🔬 Current Focus
- 
+
+- Researching Web3 attack surfaces across **smart contracts**, **frontends**, **infrastructure**, and **CI/CD pipelines**
 - Building a deep understanding of **on-chain risk surfaces**  
-- Analyzing **real protocol vulnerabilities** and creating **PoCs**  
-- Preparing for **formal Web3 security audits** ([**Code4rena**](https://code4rena.com/@SulfurPT) / [**Sherlock**](https://audits.sherlock.xyz/watson/sulfurpt) / [**Cantina**](https://cantina.xyz/u/sulfurpt))
+- Analyzing **real-world protocol vulnerabilities** and developing **PoCs**  
+- Contributing to [**public audits**](https://github.com/SulfurPT/security_audits), [**private security reviews**](https://github.com/SulfurPT/security_audits) and [**technical security research**](https://github.com/SulfurPT/articles).
 
 ---
 
-## 📂 Key Repositories
 
-- 🛡️ [**Security Audits**](https://github.com/SulfurPT/security_audits) — Smart contract audits, findings & reports  
-- 🦅 [**CodeHawks First Flights**](https://github.com/SulfurPT/CodeHawks-First-Flight) — Public First Flight submissions
-- 📝 [**Technical Articles**](https://github.com/SulfurPT/articles) — Deep-dives into blockchain security, infrastructure attacks, and offensive security research  
-
----
 
 ## 📫 Connect with Me
 
